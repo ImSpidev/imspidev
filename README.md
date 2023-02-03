@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm José Carlos "Charly" Arreola</h1>
+
+<img src="https://tinypic.host/i/ZRiAe" alt="Girl in a jacket" width="500" height="600">
+
+
 <h3 align="center">Web Developer passionate for technology and build high top quality products, meticulous and pixel perfect.</h3>
 
 <p align="left"> <a href="https://twitter.com/im_spidev" target="blank"><img src="https://img.shields.io/twitter/follow/im_spidev?logo=twitter&style=for-the-badge" alt="im_spidev" /></a> </p>
