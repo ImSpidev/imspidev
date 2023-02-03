@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Carlos "Charly" Arreola</h1>
 
-<img src="https://tinypic.host/i/ZRiAe" alt="Girl in a jacket" width="500" height="600">
-
 
 <h3 align="center">Web Developer passionate for technology and build high top quality products, meticulous and pixel perfect.</h3>
 
