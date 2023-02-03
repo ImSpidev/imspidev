@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/im_spidev" target="blank"><img src="https://img.shields.io/twitter/follow/im_spidev?logo=twitter&style=for-the-badge" alt="im_spidev" /></a> </p>
 
-- 🔭 I’m currently working on [School iBox](https://schoolibox.com/)
+- 📚 I’m currently working on [School iBox](https://schoolibox.com/)
 
-- 🌱 I’m currently learning **Angular, Svelte, Swift/UI**
+- 💡 I’m currently learning **Angular, Svelte, Swift/UI**
 
 - 👨‍💻 All of my projects are available at [https://www.polywork.com/im_spidev](https://www.polywork.com/im_spidev)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://docdro.id/CTWxFri](https://docdro.id/CTWxFri)
 
-- ⚡ Fun fact **I love videogames, 80's culture and Cyberpunk things!**
+- 🎮 Fun fact **I love videogames, 80's culture and Cyberpunk things!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
