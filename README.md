@@ -9,7 +9,7 @@
 
 - 💡 I’m currently learning **Angular, Svelte, Swift/UI**
 
-- 👨‍💻 All of my projects are available at [https://www.polywork.com/im_spidev](https://www.polywork.com/im_spidev)
+- 👨‍💻 All of my projects are available at [Spidev](https://spidev.netlify.app/)
 
 - 💬 Ask me about **Front End Technologies, JS & Videogames**
 
