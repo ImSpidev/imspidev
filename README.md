@@ -53,8 +53,6 @@
 
 <div align="center">
 
-`JS` &nbsp;·&nbsp; `TS` &nbsp;·&nbsp; `React` &nbsp;·&nbsp; `Next.js` &nbsp;·&nbsp; `Node.js` &nbsp;·&nbsp; `PHP` &nbsp;·&nbsp; `MySQL` &nbsp;·&nbsp; `Firebase` &nbsp;·&nbsp; `Figma` &nbsp;·&nbsp; `WordPress`
-
 <br/><br/>
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,mysql,firebase,figma,wordpress,html,css,bootstrap,git,vscode&theme=dark&perline=8" />
