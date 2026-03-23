@@ -1,18 +1,15 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/imspidev/imspidev/main/header.svg" width="100%" alt="Spidev"/>
 
-
 <br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=480&lines=Building+high-quality+web+experiences.;Passionate+about+technology+%26+craft.;Meticulous.+Creative.+Detail-obsessed." />
-</div>
 
 </div>
 
 ---
 
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=480&lines=Building+high-quality+web+experiences.;Passionate+about+technology+%26+craft.;Meticulous.+Creative.+Detail-obsessed." />
+</div>
 
 <div align="center">
   <img height="195" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3psZ3pqNXE1M2I2ZGc0M3FyZndzdmd0MWgydXR6cWF5NWQ0dzl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fCwQJBx2fVSDeGJX9e/giphy.gif"/>
