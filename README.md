@@ -76,5 +76,5 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0057,50:8B008B,100:1a0033&height=100&section=footer" width="100%"/>
+<img style="transform: rotate(180deg)" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0057,50:8B008B,100:1a0033&height=100&section=footer" width="100%"/>
 </div>
