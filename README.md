@@ -1,80 +1,71 @@
-<h2 align="left">Welcome to the Spidev Web! 💻</h2>
-
-###
-
-<p align="left">Hello! I'm Charly! ✌🏼 Web Developer, passionate for technology and build high top quality products, meticulous and pixel perfect.</p>
-
-###
-
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-###
-
-<br clear="both">
+<br/>
 
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3psZ3pqNXE1M2I2ZGc0M3FyZndzdmd0MWgydXR6cWF5NWQ0dzl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fCwQJBx2fVSDeGJX9e/giphy.gif"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B57BEE,50:FF6FD8,100:B57BEE&height=180&section=header&text=Hey,%20I'm%20Charly%20✌🏼&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Web%20Developer%20·%20Pixel%20Perfect%20·%20Guadalajara%20MX&descAlignY=75&descColor=FFD6F5&descSize=15" width="100%"/>
 </div>
 
-###
-
-<br clear="both">
+<br/>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" height="40" alt="codepen logo"  />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3000&pause=1000&color=D580FF&center=true&vCenter=true&width=480&lines=Building+high-quality+web+experiences.;Passionate+about+technology+%26+craft.;Meticulous.+Creative.+Detail-obsessed." />
 </div>
 
-###
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
-  <a href="spidev.cto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href=" https://wa.me/523313071987" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/charlyarreola/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/im_spideyboy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://x.com/Im_Spidev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="twitter logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=charlyarreola&show_icons=true&hide_border=true&bg_color=00000000&title_color=D580FF&icon_color=FF6FD8&text_color=cccccc&rank_icon=percentile&include_all_commits=true" height="148"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charlyarreola&layout=compact&hide_border=true&bg_color=00000000&title_color=D580FF&text_color=cccccc&langs_count=6" height="148"/>
 </div>
 
-###
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
+<br/>
+
+<div align="center">
+  <img height="195" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3psZ3pqNXE1M2I2ZGc0M3FyZndzdmd0MWgydXR6cWF5NWQ0dzl3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fCwQJBx2fVSDeGJX9e/giphy.gif"/>
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+`JS` · `TS` · `React` · `Next.js` · `Node.js` · `PHP` · `MySQL` · `Firebase` · `Figma` · `WordPress`
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,mysql,firebase,figma,wordpress,html,css,bootstrap,git,vscode&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/spidev.cto%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=FF6FD8)](mailto:spidev.cto@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/charlyarreola-1a1a2e?style=flat-square&logo=linkedin&logoColor=D580FF)](https://www.linkedin.com/in/charlyarreola/)
+  [![X](https://img.shields.io/badge/@Im__Spidev-1a1a2e?style=flat-square&logo=x&logoColor=FF6FD8)](https://x.com/Im_Spidev)
+  [![Discord](https://img.shields.io/badge/im__spideyboy-1a1a2e?style=flat-square&logo=discord&logoColor=D580FF)](https://discordapp.com/users/im_spideyboy)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-1a1a2e?style=flat-square&logo=whatsapp&logoColor=FF6FD8)](https://wa.me/523313071987)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B57BEE,50:FF6FD8,100:B57BEE&height=120&section=footer" width="100%"/>
