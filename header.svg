@@ -139,7 +139,7 @@
 
   <!-- Subtitle -->
   <text
-    x="450" y="124"
+    x="450" y="150"
     text-anchor="middle"
     font-family="monospace"
     font-size="11"
