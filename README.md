@@ -34,23 +34,21 @@
 <br/>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imspidev/imspidev/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imspidev/imspidev/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/imspidev/imspidev/output/github-snake.svg"/>
-</picture>
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,mysql,firebase,figma,wordpress,html,css,bootstrap,git,vscode&theme=dark&perline=20" />
+
 </div>
 
 <br/>
 
 ---
 
-<br/>
-
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,mysql,firebase,figma,wordpress,html,css,bootstrap,git,vscode&theme=dark&perline=20" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imspidev/imspidev/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imspidev/imspidev/output/github-snake.svg"/>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/imspidev/imspidev/output/github-snake.svg"/>
+</picture>
 </div>
 
 <br/>
