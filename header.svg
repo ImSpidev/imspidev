@@ -8,6 +8,10 @@
       .title   { animation: flicker 6s ease-in-out infinite; }
       .glow    { animation: glow-pulse 3s ease-in-out infinite; }
       .sun     { animation: sun-rise 6s ease-out forwards; }
+      .subtitle {
+        filter: drop-shadow(0 0 2px rgba(10, 0, 25, 0.95))
+                drop-shadow(0 0 6px rgba(10, 0, 25, 0.7));
+      }
 
       @keyframes grid-move {
         from { transform: translateY(0); }
@@ -15,7 +19,7 @@
       }
       @keyframes grid-fade {
         0%,100% { opacity: 0.5; }
-        50%      { opacity: 0.9; }
+        50%     { opacity: 0.9; }
       }
       @keyframes flicker {
         0%,100% { opacity: 1; }
@@ -27,7 +31,7 @@
       }
       @keyframes glow-pulse {
         0%,100% { filter: drop-shadow(0 0 8px #FF79C6) drop-shadow(0 0 20px #BD93F9); }
-        50%      { filter: drop-shadow(0 0 14px #FF79C6) drop-shadow(0 0 36px #FF79C6); }
+        50%     { filter: drop-shadow(0 0 14px #FF79C6) drop-shadow(0 0 36px #FF79C6); }
       }
       @keyframes sun-rise {
         from { transform: translateY(30px); opacity: 0; }
@@ -49,24 +53,30 @@
       <stop offset="100%" stop-color="#BD93F9"/>
     </linearGradient>
 
-    <!-- Grid fade (horizon perspective) -->
+    <!-- Grid fade -->
     <linearGradient id="grid-fade-y" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"  stop-color="#FF79C6" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#FF79C6" stop-opacity="0.6"/>
+      <stop offset="0%"   stop-color="#FF79C6" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#FF79C6" stop-opacity="0.6"/>
       <stop offset="100%" stop-color="#FF79C6" stop-opacity="0.9"/>
     </linearGradient>
+
     <linearGradient id="grid-fade-v" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%"  stop-color="#BD93F9" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#BD93F9" stop-opacity="0.5"/>
+      <stop offset="0%"   stop-color="#BD93F9" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#BD93F9" stop-opacity="0.5"/>
       <stop offset="100%" stop-color="#BD93F9" stop-opacity="0.8"/>
     </linearGradient>
 
-    <!-- Clip grid to bottom half -->
+    <!-- Soft dark strip behind subtitle for readability -->
+    <linearGradient id="subtitle-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#12001f" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#12001f" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#12001f" stop-opacity="0"/>
+    </linearGradient>
+
     <clipPath id="grid-clip">
       <rect x="0" y="120" width="900" height="100"/>
     </clipPath>
 
-    <!-- Sun stripe clip -->
     <clipPath id="sun-clip">
       <rect x="300" y="72" width="300" height="68"/>
     </clipPath>
@@ -77,8 +87,7 @@
 
   <!-- Sun circle -->
   <g class="sun">
-    <circle cx="450" cy="126" r="52" fill="url(#sun-grad)" opacity="0.92"/>
-    <!-- Horizontal stripes on sun -->
+    <circle cx="450" cy="126" r="52" fill="url(#sun-grad)" opacity="0.88"/>
     <rect x="300" y="109" width="300" height="5"  fill="#1a0033" clip-path="url(#sun-clip)"/>
     <rect x="300" y="119" width="300" height="5"  fill="#1a0033" clip-path="url(#sun-clip)"/>
     <rect x="300" y="129" width="300" height="6"  fill="#1a0033" clip-path="url(#sun-clip)"/>
@@ -90,10 +99,11 @@
   <!-- Horizon line -->
   <line x1="0" y1="130" x2="900" y2="130" stroke="#FF79C6" stroke-width="1.5" opacity="0.8"/>
 
-  <!-- === LASER GRID === -->
-  <g clip-path="url(#grid-clip)">
+  <!-- Readability strip behind subtitle -->
+  <rect x="0" y="136" width="900" height="18" fill="url(#subtitle-bg)"/>
 
-    <!-- Horizontal lines (perspective, moving) -->
+  <!-- LASER GRID -->
+  <g clip-path="url(#grid-clip)">
     <g class="grid-h">
       <line x1="0" y1="130" x2="900" y2="130" stroke="url(#grid-fade-y)" stroke-width="1"/>
       <line x1="0" y1="152" x2="900" y2="152" stroke="url(#grid-fade-y)" stroke-width="1"/>
@@ -105,20 +115,14 @@
       <line x1="0" y1="219" x2="900" y2="219" stroke="url(#grid-fade-y)" stroke-width="2.2"/>
     </g>
 
-    <!-- Vertical lines (perspective, converging to horizon center) -->
     <g class="grid-v">
-      <!-- Center -->
       <line x1="450" y1="130" x2="450" y2="220" stroke="url(#grid-fade-v)" stroke-width="1"/>
-      <!-- ±1 -->
       <line x1="450" y1="130" x2="344" y2="220" stroke="url(#grid-fade-v)" stroke-width="1"/>
       <line x1="450" y1="130" x2="556" y2="220" stroke="url(#grid-fade-v)" stroke-width="1"/>
-      <!-- ±2 -->
       <line x1="450" y1="130" x2="238" y2="220" stroke="url(#grid-fade-v)" stroke-width="1"/>
       <line x1="450" y1="130" x2="662" y2="220" stroke="url(#grid-fade-v)" stroke-width="1"/>
-      <!-- ±3 -->
       <line x1="450" y1="130" x2="132" y2="220" stroke="url(#grid-fade-v)" stroke-width="1"/>
       <line x1="450" y1="130" x2="768" y2="220" stroke="url(#grid-fade-v)" stroke-width="1"/>
-      <!-- ±4 -->
       <line x1="450" y1="130" x2="26"  y2="220" stroke="url(#grid-fade-v)" stroke-width="1"/>
       <line x1="450" y1="130" x2="874" y2="220" stroke="url(#grid-fade-v)" stroke-width="1"/>
     </g>
@@ -143,9 +147,9 @@
     text-anchor="middle"
     font-family="monospace"
     font-size="11"
-    letter-spacing="5"
-    fill="#BD93F9"
-    opacity="0.85"
-  >SOFTWARE ENGINEER  ·  WEB DEVELOPER  ·  TECH ADDICT</text>
-
+    letter-spacing="4.2"
+    fill="#7DF9FF"
+    opacity="0.96"
+    class="subtitle"
+  >SOFTWARE ENGINEER  ·  FRONTEND ENGINEER  ·  TECH ADDICT</text>
 </svg>
