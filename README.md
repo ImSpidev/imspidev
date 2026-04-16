@@ -1,8 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/imspidev/imspidev/main/header.svg" width="100%" alt="Spidev"/>
-
-<br/>
-
+  <img src="https://raw.githubusercontent.com/imspidev/imspidev/main/header.svg" width="100%" alt="Spidev"/>
 </div>
 
 ---
@@ -34,9 +31,7 @@
 <br/>
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,mysql,firebase,figma,wordpress,html,css,bootstrap,git,vscode&theme=dark&perline=20" />
-
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,mysql,firebase,figma,wordpress,html,css,bootstrap,git,vscode&theme=dark&perline=20" />
 </div>
 
 <br/>
@@ -59,16 +54,16 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/spidev.cto%40gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=FF79C6)](mailto:spidev.cto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/charlyarreola-1a1a2e?style=flat-square&logo=linkedin&logoColor=BD93F9)](https://www.linkedin.com/in/charlyarreola/)
-[![X](https://img.shields.io/badge/@Im__Spidev-1a1a2e?style=flat-square&logo=x&logoColor=FF79C6)](https://x.com/Im_Spidev)
-[![Discord](https://img.shields.io/badge/im__spideyboy-1a1a2e?style=flat-square&logo=discord&logoColor=BD93F9)](https://discordapp.com/users/im_spideyboy)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-1a1a2e?style=flat-square&logo=whatsapp&logoColor=FF79C6)](https://wa.me/523313071987)
+<a href="mailto:spidev.cto@gmail.com"><img src="https://img.shields.io/badge/Gmail-spidev.cto%40gmail.com-1a1a2e?style=for-the-badge&logo=gmail&logoColor=FF79C6&labelColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/charlyarreola/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-charlyarreola-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=BD93F9&labelColor=1a1a2e" /></a>
+<a href="https://x.com/Im_Spidev" target="_blank"><img src="https://img.shields.io/badge/X-@Im__Spidev-1a1a2e?style=for-the-badge&logo=x&logoColor=FF79C6&labelColor=1a1a2e" /></a>
+<a href="https://discordapp.com/users/im_spideyboy" target="_blank"><img src="https://img.shields.io/badge/Discord-im__spideyboy-1a1a2e?style=for-the-badge&logo=discord&logoColor=BD93F9&labelColor=1a1a2e" /></a>
+<a href="https://wa.me/523313071987" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-WhatsApp-1a1a2e?style=for-the-badge&logo=whatsapp&logoColor=FF79C6&labelColor=1a1a2e" /></a>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img style="transform: rotate(180deg)" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0057,50:8B008B,100:1a0033&height=100&section=footer" width="100%"/>
+  <img style="transform: rotate(180deg)" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0057,50:8B008B,100:1a0033&height=100&section=footer" width="100%"/>
 </div>
