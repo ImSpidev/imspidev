@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=480&lines=Building+high-quality+web+experiences.;Passionate+about+technology+%26+craft.;Meticulous.+Creative.+Detail-obsessed." />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&width=480&lines=Building+high-quality+web+experiences.;Passionate+about+technology+%26+craft.;Meticulous.+Creative.+Detail-obsessed.;Creating+Webs+Like+A+Spider." />
 </div>
 
 <div align="center">
