@@ -19,18 +19,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imspidev&show_icons=true&hide_border=true&bg_color=00000000&title_color=BD93F9&icon_color=FF79C6&text_color=cccccc&rank_icon=percentile&include_all_commits=true" height="148"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imspidev&layout=compact&hide_border=true&bg_color=00000000&title_color=BD93F9&text_color=cccccc&langs_count=6" height="148"/>
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,php,mysql,firebase,figma,wordpress,html,css,bootstrap,git,vscode&theme=dark&perline=20" />
 </div>
 
